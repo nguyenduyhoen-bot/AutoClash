@@ -1,0 +1,7 @@
+# Ignore everything by default
+*
+
+# Only allow public release documentation & version manifest
+!README.md
+!version.json
+!.gitignore
