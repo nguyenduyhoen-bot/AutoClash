@@ -10,8 +10,8 @@
   "force_update": false,
   "update_type": "zip",
   "update_zip_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.5.4/AutoClash_Update_v1.5.4.zip",
-  "checksum_sha256": "3cc37f122c5e6b70a252009fd5c1ee3895ef181f51df2f196d5faa2d31a0b1ed",
-  "zip_size_bytes": 186777602,
+  "checksum_sha256": "cb909da24a58cbaec64d991c6787080ea89469989565d519a2febfbd26f92340",
+  "zip_size_bytes": 186777651,
   "files": [
     {
       "name": "AutoClash.exe",
@@ -25,8 +25,8 @@
       "name": "Updater.exe",
       "path": "Updater.exe",
       "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.5.4/Updater.exe",
-      "sha256": "90dc0ce333da01e84efe7c4174096a416877623b5eb79b6f47c521771708a283",
-      "size_bytes": 38638516,
+      "sha256": "da87d470d9542cb4103859601098011a8f8181391990f91a50376612d72c73ff",
+      "size_bytes": 38638632,
       "size_formatted": "36.85 MB"
     },
     {
@@ -41,8 +41,8 @@
       "name": "updater.py",
       "path": "bin/updater.py",
       "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.5.4/updater.py",
-      "sha256": "c2b5f1b20baff5359b3b8f301b3c9eda801cb9244ebaa67b3a9f0783b333ab4d",
-      "size_bytes": 38558,
+      "sha256": "b5abaf7005600f5d925f3c739c8d97bef3bba130db2a50721c4a433715316101",
+      "size_bytes": 38789,
       "size_formatted": "37.65 KB"
     },
     {
