@@ -1,62 +1,62 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "release_date": "18/11/2026",
   "changelog": [
-    "- v1.6.0: Khac phuc triet de loi crash 0xc000041d (exit code 3221226525) khi nhung bot vao Manager bang giai phap Seamless In-Place Docking",
-    "- v1.6.0: Khac phuc loi fresh screenshot could not be captured gay treo chu ky quet tran qua ADB",
-    "- v1.6.0: Toi uu hoa chup man hinh ADB va nhan dien Home Base tuc thi",
-    "- v1.6.0: Dong bo Updater.exe va goi cap nhat AutoClash_Update_v1.6.0.zip len GitHub Releases"
+    "- v1.6.1: Khac phuc triet de loi ImportError cannot import name _imaging from PIL tren may khach",
+    "- v1.6.1: Loai bo bin/PIL khoi danh sach delete_dirs va bao ve toan ven cac thu vien native",
+    "- v1.6.1: Loai bo lenh don dep thu muc chay sau khi xcopy trong updater",
+    "- v1.6.1: Cap nhat Updater.exe doc lap va AutoClash.exe v1.6.1"
   ],
   "force_update": false,
   "update_type": "zip",
-  "update_zip_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/AutoClash_Update_v1.6.0.zip",
-  "checksum_sha256": "4ab9cb211fe1b40252bd65ffeec796d072c1f9b826338bf1736951dae59b35a4",
-  "zip_size_bytes": 445228815,
+  "update_zip_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/AutoClash_Update_v1.6.1.zip",
+  "checksum_sha256": "42c504ce034c799ac7aa8106a02437b08a92cf77b73984413590b506115692f7",
+  "zip_size_bytes": 445099005,
   "files": [
     {
       "name": "AutoClash.exe",
       "path": "AutoClash.exe",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/AutoClash.exe",
-      "sha256": "d2ff69cc4b3204726c64baca812cbfacd621d2a97272c1e418bc6e5b7d4064d2",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/AutoClash.exe",
+      "sha256": "23f55833726e843cf75ba24b3eded53443bcf0c97f9b50ace775be41a1f4f37b",
       "size_bytes": 8835516,
       "size_formatted": "8.43 MB"
     },
     {
       "name": "Updater.exe",
       "path": "Updater.exe",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/Updater.exe",
-      "sha256": "f5b89293298b185d293906bff13df75fb18e2fec9cac81b22246d761184baee9",
-      "size_bytes": 38638253,
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/Updater.exe",
+      "sha256": "97ed61b6163465f00966ce11b552ac20a84b25a3537a9229bc54f1ba9d343d6b",
+      "size_bytes": 38639788,
       "size_formatted": "36.85 MB"
     },
     {
       "name": "version_local.json",
       "path": "bin/version_local.json",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/version_local.json",
-      "sha256": "aab5b7e17c58af60938c8ebfb4883cbe96df91b5ce986f64b79a09a39a66d0f3",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/version_local.json",
+      "sha256": "b73032b86bb6273d5fc058b42586f39d105b290be512061fde7e61ee5704cee8",
       "size_bytes": 26,
       "size_formatted": "0.03 KB"
     },
     {
       "name": "root_version_local.json",
       "path": "version_local.json",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/root_version_local.json",
-      "sha256": "aab5b7e17c58af60938c8ebfb4883cbe96df91b5ce986f64b79a09a39a66d0f3",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/root_version_local.json",
+      "sha256": "b73032b86bb6273d5fc058b42586f39d105b290be512061fde7e61ee5704cee8",
       "size_bytes": 26,
       "size_formatted": "0.03 KB"
     },
     {
       "name": "updater.py",
       "path": "bin/updater.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/updater.py",
-      "sha256": "7cd493e64042aef8a3b7af086458f43bef62e070d5e05cc6fd0d5bc465520df8",
-      "size_bytes": 39000,
-      "size_formatted": "38.09 KB"
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/updater.py",
+      "sha256": "49a84cb473fb59943af250f516c810a7d56a41287113aefd9c03b773d22dcf96",
+      "size_bytes": 39400,
+      "size_formatted": "38.48 KB"
     },
     {
       "name": "ahk_utils.py",
       "path": "bin/ahk_utils.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/ahk_utils.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/ahk_utils.py",
       "sha256": "4eb2570f35facaaeecea1bb5e166023054cdd7d808552473f3c4ae1b7cde173e",
       "size_bytes": 8487,
       "size_formatted": "8.29 KB"
@@ -64,7 +64,7 @@
     {
       "name": "game_controller.py",
       "path": "bin/game_controller.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/game_controller.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/game_controller.py",
       "sha256": "7a4d0b03d7799f480077af6cb048da3df0e0e03db899077923c196fbd6fea3e5",
       "size_bytes": 53405,
       "size_formatted": "52.15 KB"
@@ -72,7 +72,7 @@
     {
       "name": "screenshot_utils.py",
       "path": "bin/screenshot_utils.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/screenshot_utils.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/screenshot_utils.py",
       "sha256": "578e296310af98064712279ef563a85f1b234ea7dc103c35071105fba0d74ec6",
       "size_bytes": 3835,
       "size_formatted": "3.75 KB"
@@ -80,7 +80,7 @@
     {
       "name": "lib_utils.py",
       "path": "bin/lib_utils.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/lib_utils.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/lib_utils.py",
       "sha256": "6bc5f7db01531d519b35548c7b9d596ffc3cdbd87577b7bb98eb2aa12d21b252",
       "size_bytes": 17665,
       "size_formatted": "17.25 KB"
@@ -88,7 +88,7 @@
     {
       "name": "isometric_coords.py",
       "path": "bin/isometric_coords.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/isometric_coords.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/isometric_coords.py",
       "sha256": "a37af198b4d3f8a18d38a66bfd89f7d0321616fb057f7fda83d78ae086dbcc37",
       "size_bytes": 4875,
       "size_formatted": "4.76 KB"
@@ -96,7 +96,7 @@
     {
       "name": "ensure_home_base.py",
       "path": "bin/ensure_home_base.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/ensure_home_base.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/ensure_home_base.py",
       "sha256": "8af7ea5e7ca634ba761b6608157846174f74a289bf3d2680d794ae05c659753e",
       "size_bytes": 4198,
       "size_formatted": "4.10 KB"
@@ -104,7 +104,7 @@
     {
       "name": "detect_home_base.py",
       "path": "bin/detect_home_base.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/detect_home_base.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/detect_home_base.py",
       "sha256": "b359a811d5532ac290ecb771b7bb71a2a41cbe78aba99f561609c88b917fe728",
       "size_bytes": 14329,
       "size_formatted": "13.99 KB"
@@ -112,7 +112,7 @@
     {
       "name": "autoclash_gui.py",
       "path": "bin/autoclash_gui.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/autoclash_gui.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/autoclash_gui.py",
       "sha256": "ee727348e3ea82c52779d858ce8ab9f07247faec7f3acaca35aef849f8e4da2d",
       "size_bytes": 166541,
       "size_formatted": "162.64 KB"
@@ -120,7 +120,7 @@
     {
       "name": "home_routine.py",
       "path": "bin/home_routine.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/home_routine.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/home_routine.py",
       "sha256": "cf34771dc87020564c5963dfb902a1e0eed9c6b41c1484013ef8398dc6442857",
       "size_bytes": 145701,
       "size_formatted": "142.29 KB"
@@ -128,7 +128,7 @@
     {
       "name": "attacks.py",
       "path": "bin/attacks/attacks.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/attacks.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/attacks.py",
       "sha256": "03181b4486f3a62d13ba910a02ac5d9fa1da7c18ab05ace168bf8e685dd75b5e",
       "size_bytes": 64370,
       "size_formatted": "62.86 KB"
@@ -136,7 +136,7 @@
     {
       "name": "digit_ocr.py",
       "path": "bin/digit_ocr.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/digit_ocr.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/digit_ocr.py",
       "sha256": "85c976895bf7a03a6c70391a8ec79de02a44792fec540c621e6dc52a0fda9f0b",
       "size_bytes": 20304,
       "size_formatted": "19.83 KB"
@@ -144,7 +144,7 @@
     {
       "name": "template_vision.py",
       "path": "bin/template_vision.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/template_vision.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/template_vision.py",
       "sha256": "1372ae07b09eb4dcdb05c695c1611d70076f25ec175c9e9bbe8dfa939ec98aa3",
       "size_bytes": 25365,
       "size_formatted": "24.77 KB"
@@ -152,7 +152,7 @@
     {
       "name": "ocr_reader.py",
       "path": "bin/ocr_reader.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/ocr_reader.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/ocr_reader.py",
       "sha256": "7e165987520d4d63d1878e0c484f88dc2c9ddf727fbd06e85579d4ae83b66401",
       "size_bytes": 32386,
       "size_formatted": "31.63 KB"
@@ -160,7 +160,7 @@
     {
       "name": "IsTarget.py",
       "path": "bin/IsTarget.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/IsTarget.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/IsTarget.py",
       "sha256": "89bbf4ef04d060d0981f57ee6efe290a8f101af71e32828172ccc8fb049fe9c6",
       "size_bytes": 7848,
       "size_formatted": "7.66 KB"
@@ -168,7 +168,7 @@
     {
       "name": "bot_stats.py",
       "path": "bin/bot_stats.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/bot_stats.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/bot_stats.py",
       "sha256": "33fea38ecb2be6fc28ae28d54d72bdd83757aac800fe67575f6db87f7714922b",
       "size_bytes": 314,
       "size_formatted": "0.31 KB"
@@ -176,7 +176,7 @@
     {
       "name": "config_profiles.py",
       "path": "bin/config_profiles.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/config_profiles.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/config_profiles.py",
       "sha256": "f92b11cc541b299b36379b6aa7b6466f4147eb8701c18fbe258846fe1ef95b08",
       "size_bytes": 544,
       "size_formatted": "0.53 KB"
@@ -184,7 +184,7 @@
     {
       "name": "coordinate_tool.py",
       "path": "bin/coordinate_tool.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/coordinate_tool.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/coordinate_tool.py",
       "sha256": "5b98b473a02ad2bee1d000e5bac29ce0e7fd34687a893a528cd27d3eebbc2f9c",
       "size_bytes": 29315,
       "size_formatted": "28.63 KB"
@@ -192,7 +192,7 @@
     {
       "name": "clan_games_data.py",
       "path": "bin/clan_games_data.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/clan_games_data.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/clan_games_data.py",
       "sha256": "9fa84eb5be7f2d2fedc4dc808faffee94620875d55966157f07cfbad75375bd7",
       "size_bytes": 6069,
       "size_formatted": "5.93 KB"
@@ -200,7 +200,7 @@
     {
       "name": "upgrade_picker.py",
       "path": "bin/upgrade_picker.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/upgrade_picker.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/upgrade_picker.py",
       "sha256": "4778b07adcce423efc7019b9c3ead26da79e4c5f9fcaeb1711ed29d78bb8df39",
       "size_bytes": 18249,
       "size_formatted": "17.82 KB"
@@ -208,7 +208,7 @@
     {
       "name": "auth_license.py",
       "path": "bin/auth_license.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/auth_license.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/auth_license.py",
       "sha256": "e7118c5b284dc6cd2b57e099e75cf103cf21967f6c433c662aee276a7a7e8463",
       "size_bytes": 11010,
       "size_formatted": "10.75 KB"
@@ -216,7 +216,7 @@
     {
       "name": "account_manager.py",
       "path": "bin/account_manager.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/account_manager.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/account_manager.py",
       "sha256": "8e453326b8d8e93c04e36e5e1d1ed55abe53d84aa742013c2eb51d8aed8143bc",
       "size_bytes": 15105,
       "size_formatted": "14.75 KB"
@@ -224,7 +224,7 @@
     {
       "name": "troop_picker.py",
       "path": "bin/troop_picker.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/troop_picker.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/troop_picker.py",
       "sha256": "e15e453b71b94f58c666d1695b45a6ff3bc2565dbb303b608ae8ef1108c12337",
       "size_bytes": 14884,
       "size_formatted": "14.54 KB"
@@ -232,7 +232,7 @@
     {
       "name": "extra_settings_dialogs.py",
       "path": "bin/extra_settings_dialogs.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/extra_settings_dialogs.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/extra_settings_dialogs.py",
       "sha256": "d90b29590200b721508b2e283098c284da5deb3a53e2333f7f1b5a303c5a4268",
       "size_bytes": 13951,
       "size_formatted": "13.62 KB"
@@ -240,7 +240,7 @@
     {
       "name": "_tkinter.pyd",
       "path": "bin/_tkinter.pyd",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/_tkinter.pyd",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/_tkinter.pyd",
       "sha256": "574549683a4298335bdb8761ec6eaa11d56e366b618b5ab0b701b5fe2dda48aa",
       "size_bytes": 68816,
       "size_formatted": "67.20 KB"
@@ -248,7 +248,7 @@
     {
       "name": "tcl86t.dll",
       "path": "bin/tcl86t.dll",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/tcl86t.dll",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/tcl86t.dll",
       "sha256": "a308beae8555cff5ac2aff7eaf0aef40b5fe173f047e246dc49da9a4d3ef62f9",
       "size_bytes": 1839896,
       "size_formatted": "1.75 MB"
@@ -256,7 +256,7 @@
     {
       "name": "tk86t.dll",
       "path": "bin/tk86t.dll",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/tk86t.dll",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/tk86t.dll",
       "sha256": "20f4876506bce7f89e53570e64fd1dce30a64548326b45f372871c7019560df4",
       "size_bytes": 1589528,
       "size_formatted": "1.52 MB"
@@ -264,7 +264,7 @@
     {
       "name": "zlib1.dll",
       "path": "bin/zlib1.dll",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/zlib1.dll",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/zlib1.dll",
       "sha256": "1dd27f0411ebb31bd148a61589cee254410915f1e6c37aa3ffa52fac71a5426c",
       "size_bytes": 146208,
       "size_formatted": "142.78 KB"
@@ -272,7 +272,7 @@
     {
       "name": "template_config.py",
       "path": "bin/template_config.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/template_config.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/template_config.py",
       "sha256": "fb13fc7dad7f7b7287e99cef860c444c82dc781e483e587c978af731348a8aa9",
       "size_bytes": 12435,
       "size_formatted": "12.14 KB"
@@ -280,7 +280,7 @@
     {
       "name": "main.py",
       "path": "bin/main.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/main.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/main.py",
       "sha256": "af1e6d00b56a6293225c988e9ab8bf82af1a6042c8aaab6fa8dab1d6f37c67b7",
       "size_bytes": 21408,
       "size_formatted": "20.91 KB"
@@ -288,7 +288,7 @@
     {
       "name": "zip_utils.py",
       "path": "bin/zip_utils.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/zip_utils.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/zip_utils.py",
       "sha256": "78093e46b2bfea4684bf86e98673b3c05d5386377e69d0a2c646ac62df6898e9",
       "size_bytes": 3214,
       "size_formatted": "3.14 KB"
@@ -296,7 +296,7 @@
     {
       "name": "daily_logger.py",
       "path": "bin/daily_logger.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/daily_logger.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/daily_logger.py",
       "sha256": "46c5e59e65179f19e7431e517783d2cf7dfb3617fb50ad88d353eaa87353d9bd",
       "size_bytes": 3667,
       "size_formatted": "3.58 KB"
@@ -304,7 +304,7 @@
     {
       "name": "i18n.py",
       "path": "bin/i18n.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/i18n.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/i18n.py",
       "sha256": "13b9d60940d4378c05ae52918a5eb3260d78305a73145c1641ac3393b97a9d2a",
       "size_bytes": 3447,
       "size_formatted": "3.37 KB"
@@ -312,7 +312,7 @@
     {
       "name": "language.json",
       "path": "bin/language.json",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/language.json",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/language.json",
       "sha256": "f4c60d2929abc9b5840a3101dfebd40d845d840cf3a256ff4e951370b71acc57",
       "size_bytes": 3654,
       "size_formatted": "3.57 KB"
@@ -320,7 +320,7 @@
     {
       "name": "integrity.py",
       "path": "bin/integrity.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/integrity.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/integrity.py",
       "sha256": "6c7b5625b240479168f8f12b560f9a5aef345c2c8569711416c1b48a57a3540a",
       "size_bytes": 3487,
       "size_formatted": "3.41 KB"
@@ -328,7 +328,7 @@
     {
       "name": "stats.py",
       "path": "bin/stats.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/stats.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/stats.py",
       "sha256": "f63631aeadebd5f330ea04b123b15d6e1315a1b2956d268fe31ef3edfebec3ed",
       "size_bytes": 6339,
       "size_formatted": "6.19 KB"
@@ -336,7 +336,7 @@
     {
       "name": "config_manager.py",
       "path": "bin/config_manager.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/config_manager.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/config_manager.py",
       "sha256": "4c6a272640fe82d0d28bee5fbf9fd2c5201b15a95dd1fe50043f84af828ea532",
       "size_bytes": 9170,
       "size_formatted": "8.96 KB"
@@ -344,7 +344,7 @@
     {
       "name": "boot_recovery.py",
       "path": "bin/boot_recovery.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/boot_recovery.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/boot_recovery.py",
       "sha256": "610d0233d1a6f5835fbd2b11e47a2d735f0277bf236b85fe6036c520a854f89a",
       "size_bytes": 9567,
       "size_formatted": "9.34 KB"
@@ -352,7 +352,7 @@
     {
       "name": "emulator_scanner.py",
       "path": "bin/emulator_scanner.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/emulator_scanner.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/emulator_scanner.py",
       "sha256": "518a56e3c4a58827be3f61fc985b6157e92919df1323fde7c94116ce2d995d96",
       "size_bytes": 13593,
       "size_formatted": "13.27 KB"
@@ -360,7 +360,7 @@
     {
       "name": "ldplayer_manager.py",
       "path": "bin/ldplayer_manager.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/ldplayer_manager.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/ldplayer_manager.py",
       "sha256": "b9080265f3b722ce96d236a08f2fdd1d5e811e7cddf6b16c5d48d7ead6944c11",
       "size_bytes": 29836,
       "size_formatted": "29.14 KB"
@@ -368,23 +368,15 @@
     {
       "name": "app_paths.py",
       "path": "bin/app_paths.py",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/app_paths.py",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/app_paths.py",
       "sha256": "a6ede9e77bbc62b536e62181c7de9ff9bbaa4ec4d044d04b5b3123941479ef41",
       "size_bytes": 3746,
       "size_formatted": "3.66 KB"
     },
     {
-      "name": "runtime_manifest.json",
-      "path": "runtime_manifest.json",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/runtime_manifest.json",
-      "sha256": "6fa205e346c4afd64a81f5f513b216643da38315844f3f41dfcce478bc1ea317",
-      "size_bytes": 414617,
-      "size_formatted": "404.90 KB"
-    },
-    {
       "name": "bin_runtime_manifest.json",
       "path": "bin/runtime_manifest.json",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/bin_runtime_manifest.json",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/bin_runtime_manifest.json",
       "sha256": "6fa205e346c4afd64a81f5f513b216643da38315844f3f41dfcce478bc1ea317",
       "size_bytes": 414617,
       "size_formatted": "404.90 KB"
@@ -392,8 +384,8 @@
     {
       "name": "VERSION",
       "path": "VERSION",
-      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.0/VERSION",
-      "sha256": "fcd2cf9842eb54382a407192ae52622f38549dc24b9aec014019af36e868a31e",
+      "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.1/VERSION",
+      "sha256": "243ee32e16b104fa84cf67ae268502d2de4f3f6caeb787bfa37832bf7d4b4f54",
       "size_bytes": 7,
       "size_formatted": "0.01 KB"
     }
@@ -410,31 +402,17 @@
     "_internal/grpc",
     "_internal/_pyqt5_conda_disabled",
     "_internal/ipykernel",
-    "bin/ipykernel",
     "_internal/jupyter_client",
-    "bin/jupyter_client",
     "_internal/parso",
-    "bin/parso",
     "_internal/traitlets",
-    "bin/traitlets",
     "_internal/torch-2.9.1.dist-info",
-    "bin/torch-2.9.1.dist-info",
     "_internal/numpy-2.2.4.dist-info",
-    "bin/numpy-2.2.4.dist-info",
     "_internal/easyocr-1.7.2.dist-info",
-    "bin/easyocr-1.7.2.dist-info",
     "_internal/torchvision-0.24.1.dist-info",
-    "bin/torchvision-0.24.1.dist-info",
     "_internal/cryptography-44.0.1.dist-info",
-    "bin/cryptography-44.0.1.dist-info",
     "_internal/attrs-24.3.0.dist-info",
-    "bin/attrs-24.3.0.dist-info",
     "_internal/MarkupSafe-3.0.2.dist-info",
-    "bin/MarkupSafe-3.0.2.dist-info",
     "_internal/adbutils-2.12.0.dist-info",
-    "bin/adbutils-2.12.0.dist-info",
-    "bin/PIL",
-    "bin/pillow-12.3.0.dist-info",
     "tools"
   ],
   "delete_files": [
