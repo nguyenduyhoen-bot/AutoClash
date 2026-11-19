@@ -1,9 +1,9 @@
 {
   "version": "1.6.5",
-  "release_date": "19/11/2026",
+  "release_date": "20/11/2026",
   "changelog": [
-    "- v1.6.5: Tích hợp nút Lưu Cấu Hình trực tiếp trên thanh điều khiển Manager và tab Vận Hành, tự động đồng bộ tức thì settings.json",
     "- v1.6.5: Tối ưu hóa thanh công cụ Manager gọn gàng, loại bỏ logo AutoClash tràn viền giúp giao diện vừa vặn chuẩn tỉ lệ",
+    "- v1.6.5: Tích hợp nút Lưu Cấu Hình trực tiếp trên thanh điều khiển Manager và tab Vận Hành, tự động đồng bộ tức thì settings.json",
     "- v1.6.5: Nâng cấp bộ nhận diện số tài nguyên scout chính xác 100%, loại bỏ triệt để lỗi Gold=1 và tự động phục hồi luồng trinh sát",
     "- v1.6.5: Tự động nhận diện và đóng màn hình Cửa Hàng / Ưu Đãi (Offers / Shop screen) khi bị che khuất làng chính",
     "- v1.6.5: Phục hồi cấu trúc chuẩn _internal/, tối ưu hóa chuỗi triển khai quân 8 bước và thống nhất bộ nhận diện làng chính PreflightHomeDetector"
@@ -11,16 +11,16 @@
   "force_update": false,
   "update_type": "zip",
   "update_zip_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.5/AutoClash_Update_v1.6.5.zip",
-  "checksum_sha256": "fe0238a27c62a1b75bb1a838e01d23a85f8667fa9e3f853d686a6e10535fa342",
-  "zip_size_bytes": 466337137,
+  "checksum_sha256": "2ee088d58c945907459fcce4a3899b6644f1cda46c594aadd0252339ae46d74a",
+  "zip_size_bytes": 466351027,
   "files": [
     {
       "name": "AutoClash.exe",
       "path": "AutoClash.exe",
       "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.5/AutoClash.exe",
-      "sha256": "f49553be1c9d0d0bb914c3ed732aa295d9b043b6c372d709de08b80dfdf702d5",
-      "size_bytes": 8871558,
-      "size_formatted": "8.46 MB"
+      "sha256": "b27cc751671afe8e38fca47ae3a9779def2bf91e6f1a580a91a49782d2c82ca2",
+      "size_bytes": 8885119,
+      "size_formatted": "8.47 MB"
     },
     {
       "name": "Updater.exe",
@@ -66,9 +66,9 @@
       "name": "game_controller.py",
       "path": "_internal/game_controller.py",
       "download_url": "https://github.com/nguyenduyhoen-bot/AutoClash/releases/download/v1.6.5/game_controller.py",
-      "sha256": "70b63e91d4d20e4ef6057e7a1e617abfdb37b594adbf05f548527acea0e7afd5",
-      "size_bytes": 57640,
-      "size_formatted": "56.29 KB"
+      "sha256": "8e00006f334586d072959b644ca4b5ed7887737854992147e13bfe160037b2db",
+      "size_bytes": 57842,
+      "size_formatted": "56.49 KB"
     },
     {
       "name": "screenshot_utils.py",
